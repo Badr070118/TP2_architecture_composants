@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ma.formations.rest.unitaire.ArticleControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.946 s - in ma.formations.rest.unitaire.ArticleControllerTest
